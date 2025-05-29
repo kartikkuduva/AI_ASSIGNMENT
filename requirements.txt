@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+yfinance
+whisper
+pyttsx3
+requests
+beautifulsoup4
+faiss-cpu
+python-dotenv
+openai-whisper
